@@ -18,21 +18,19 @@ body {
     padding: 10px;
     background-color: #efd469; /*efd469*/
     min-height: 150px;
+    color: #093145
 }
 
     #header logo {
         font-size: 40px;
-        color: #373d3f; /*373d3f*/
     }
 
     #header social {
         font-size: 20px;
-        color: #373d3f; /*373d3f*/
     }
 
         #header social .fab {
             padding: 20px;
-            color: #373d3f; /*373d3f*/
         }
 
 
@@ -174,7 +172,7 @@ footer {
 }
 
     footer a {
-        color: #f2f3f4; /*f2f3f4*/
+        color: #efd469; /*efd469*/
     }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -379,7 +377,7 @@ footer {
     }
 
         footer a {
-            color: #f2f3f4; /*f2f3f4*/
+            color: #efd469; /*f2f3f4*/
         }
 }
 
@@ -604,6 +602,6 @@ footer {
     }
 
         footer a {
-            color: #f2f3f4; /*f2f3f4*/
+            color: #efd469; /*f2f3f4*/
         }
 }
