@@ -6,7 +6,7 @@ body {
     font-family: "Roboto", sans-serif;
     padding: 0;
     margin: 0;
-    background-color: #000; /*093145*/
+    background-color: #093145; /*093145*/
     color: #f2f3f4; /*f2f3f4*/
 }
 
@@ -16,7 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 10px;
-    background-color: #fff; /*efd469*/
+    background-color: #efd469; /*efd469*/
     min-height: 150px;
     color: #093145
 }
@@ -61,14 +61,14 @@ main {
     }
 
     main a {
-        color: #fff; /*efd469*/
+        color: #efd469; /*efd469*/
     }
 
     main #portfolio {
         position: relative;
         padding: 10px;
-        background-color: #fff; /*efd469*/
-        color: #fff; /*373d3f*/
+        background-color: #efd469; /*efd469*/
+        color: #093145; /*373d3f*/
         margin: 30px;
     }
 
@@ -82,7 +82,7 @@ main {
         }
 
         main #portfolio a {
-            color: #ddd; /*3c6478*/
+            color: #3c6478; /*3c6478*/
         }
 
     main .portfolio_image {
@@ -97,14 +97,14 @@ main {
         text-align: right;
         border-left: 70vw solid transparent;
         border-right: 25px solid transparent;
-        border-bottom: 25px solid #fff; /*373d3f*/
+        border-bottom: 25px solid #373d3f; /*373d3f*/
     }
 
     main .portfoliobottom {
         margin: -30px 30px 30px 30px;
         border-left: 25px solid transparent;
         border-right: 70vw solid transparent;
-        border-top: 25px solid #fff; /*373d3f*/
+        border-top: 25px solid #373d3f; /*373d3f*/
     }
 
     main #contact {
@@ -137,7 +137,7 @@ main {
         }
 
     main .dropshadow {
-        text-shadow: 5px 5px #fff; /*373d3f*/
+        text-shadow: 5px 5px #373d3f; /*373d3f*/
     }
 
 footer {
@@ -173,7 +173,7 @@ footer {
         font-family: "Roboto", sans-serif;
         padding: 0;
         margin: 0;
-        background-color: #000; /*093145*/
+        background-color: #093145; /*093145*/
         color: #f2f3f4; /*f2f3f4*/
     }
 
@@ -185,7 +185,7 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-content: center;
-        background: #fff; /*efd469*/
+        background: #efd469; /*efd469*/
         height: 100%;
         width: 150px;
         color: #093145;
@@ -220,7 +220,7 @@ footer {
     .headerbreak {
         border-left: 25px solid transparent;
         border-right: 90vw solid transparent;
-        border-top: 75px solid #000; /*373d3f*/
+        border-top: 75px solid #373d3f; /*373d3f*/
     }
 
     main {
@@ -254,7 +254,7 @@ footer {
                 }
 
                 main #content #side a {
-                    color: #fff; /*efd469*/
+                    color: #efd469; /*efd469*/
                 }
 
                 main #content #side #jsportfolio {
@@ -266,8 +266,8 @@ footer {
                     main #content #side #jsportfolio #portfolio {
                         position: relative;
                         padding: 10px;
-                        background-color: #fff; /*efd469*/
-                        color: #000; /*373d3f*/
+                        background-color: #efd469; /*efd469*/
+                        color: #093145; /*373d3f*/
                         margin: 30px;
                         width: 50%;
                     }
@@ -282,7 +282,7 @@ footer {
                         }
 
                         main #content #side #jsportfolio #portfolio a {
-                            color: #ddd; /*3c6478*/
+                            color: #3c6478; /*3c6478*/
                         }
 
                     main #content #side #jsportfolio .portfolio_image {
@@ -340,7 +340,7 @@ footer {
             }
 
         main .dropshadow {
-            text-shadow: 5px 5px #fff; /*efd469*/
+            text-shadow: 5px 5px #efd469; /*efd469*/
         }
 
 
@@ -378,7 +378,7 @@ footer {
         font-family: "Roboto", sans-serif;
         padding: 0;
         margin: 0;
-        background-color: #000; /*093145*/
+        background-color: #093145; /*093145*/
         color: #f2f3f4; /*f2f3f4*/
     }
 
@@ -390,8 +390,8 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-content: center;
-        background: #000; /*efd469*/
-        color: #fff; /*373d3f*/
+        background: #efd469; /*efd469*/
+        color: #093145; /*373d3f*/
         height: 100%;
         width: 150px;
     }
@@ -424,7 +424,7 @@ footer {
     .headerbreak {
         border-left: 25px solid transparent;
         border-right: 90vw solid transparent;
-        border-top: 75px solid #000; /*373d3f*/
+        border-top: 75px solid #373d3f; /*373d3f*/
     }
 
     main {
@@ -458,7 +458,7 @@ footer {
                 }
 
                 main #content #side a {
-                    color: #fff; /*efd469*/
+                    color: #efd469; /*efd469*/
                 }
 
                 main #content #side #jsportfolio {
@@ -470,8 +470,8 @@ footer {
                     main #content #side #jsportfolio #portfolio {
                         position: relative;
                         padding: 10px;
-                        background-color: #fff; /*efd469*/
-                        color: #000; /*373d3f*/
+                        background-color: #efd469; /*efd469*/
+                        color: #093145; /*373d3f*/
                         margin: 30px;
                         width: 50%;
                     }
@@ -486,7 +486,7 @@ footer {
                         }
 
                         main #content #side #jsportfolio #portfolio a {
-                            color: #ddd; /*3c6478*/
+                            color: #3c6478; /*3c6478*/
                         }
 
                     main #content #side #jsportfolio .portfolio_image {
@@ -558,12 +558,12 @@ footer {
                 main #contact #formsection .button {
                     padding: 10px;
                     width: 100%;
-                    background-color: #fff; /*efd469*/
-                    color: #000; /*373d3f*/
+                    background-color: #efd469; /*efd469*/
+                    color: #373d3f; /*373d3f*/
                 }
 
         main .dropshadow {
-            text-shadow: 5px 5px #fff; /*efd469*/
+            text-shadow: 5px 5px #efd469; /*efd469*/
         }
 
 
@@ -578,6 +578,6 @@ footer {
     }
 
         footer a {
-            color: #fff;
+            color: #efd469; /*f2f3f4*/
         }
 }
