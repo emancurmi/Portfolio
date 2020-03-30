@@ -6,8 +6,8 @@ body {
     font-family: "Roboto", sans-serif;
     padding: 0;
     margin: 0;
-    background-color: #093145; /*093145*/
-    color: #f2f3f4; /*f2f3f4*/
+    background-color: #000000; /*093145*/
+    color: #f2f2f2; /*f2f3f4*/
 }
 
 #header {
@@ -16,9 +16,9 @@ body {
     justify-content: center;
     align-items: center;
     padding: 10px;
-    background-color: #efd469; /*efd469*/
+    background-color: #ffffff; /*efd469*/
     min-height: 150px;
-    color: #093145
+    color: #000000
 }
 
     #header logo {
@@ -41,7 +41,7 @@ body {
 .headerbreak {
     border-left: 25px solid transparent;
     border-right: 90vw solid transparent;
-    border-top: 75px solid #373d3f; /*373d3f*/
+    border-top: 75px solid #000000; /*093145*/
 }
 
 main {
@@ -61,14 +61,14 @@ main {
     }
 
     main a {
-        color: #efd469; /*efd469*/
+        color: #ffffff; /*efd469*/
     }
 
     main #portfolio {
         position: relative;
         padding: 10px;
-        background-color: #efd469; /*efd469*/
-        color: #093145; /*373d3f*/
+        background-color: #ffffff; /*efd469*/
+        color: #000000; /*093145*/
         margin: 30px;
     }
 
@@ -82,7 +82,7 @@ main {
         }
 
         main #portfolio a {
-            color: #3c6478; /*3c6478*/
+            color: #333333; /*3c6478*/
         }
 
     main .portfolio_image {
@@ -97,14 +97,14 @@ main {
         text-align: right;
         border-left: 70vw solid transparent;
         border-right: 25px solid transparent;
-        border-bottom: 25px solid #373d3f; /*373d3f*/
+        border-bottom: 25px solid #8c8c8c; /*373d3f*/
     }
 
     main .portfoliobottom {
         margin: -30px 30px 30px 30px;
         border-left: 25px solid transparent;
         border-right: 70vw solid transparent;
-        border-top: 25px solid #373d3f; /*373d3f*/
+        border-top: 25px solid #8c8c8c; /*373d3f*/
     }
 
     main #contact {
@@ -119,13 +119,13 @@ main {
         main #contact #aboutsection #about {
             padding: 50px;
             line-height: 30px;
-            color: #f2f3f4; /*f2f3f4*/
+            color: #f2f2f2; /*f2f3f4*/
         }
 
         main #contact #aboutsection #email {
             text-align: center;
             line-height: 30px;
-            color: #f2f3f4; /*f2f3f4*/
+            color: #f2f2f2; /*f2f3f4*/
         }
 
         main #contact #skillssection {
@@ -137,7 +137,7 @@ main {
         }
 
     main .dropshadow {
-        text-shadow: 5px 5px #373d3f; /*373d3f*/
+        text-shadow: 5px 5px #8c8c8c; /*373d3f*/
     }
 
 footer {
@@ -146,12 +146,12 @@ footer {
     justify-content: center;
     align-items: center;
     line-height: 50px;
-    color: #f2f3f4; /*f2f3f4*/
+    color: #f2f2f2; /*f2f3f4*/
     padding: 20px;
 }
 
     footer a {
-        color: #efd469; /*efd469*/
+        color: #ffffff; /*efd469*/
     }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -173,8 +173,8 @@ footer {
         font-family: "Roboto", sans-serif;
         padding: 0;
         margin: 0;
-        background-color: #093145; /*093145*/
-        color: #f2f3f4; /*f2f3f4*/
+        background-color: #000000; /*093145*/
+        color: #f2f2f2; /*f2f3f4*/
     }
 
     #header {
@@ -185,10 +185,10 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-content: center;
-        background: #efd469; /*efd469*/
+        background: #ffffff; /*efd469*/
         height: 100%;
         width: 150px;
-        color: #093145;
+        color: #000000;
     }
 
         #header logo {
@@ -220,7 +220,7 @@ footer {
     .headerbreak {
         border-left: 25px solid transparent;
         border-right: 90vw solid transparent;
-        border-top: 75px solid #373d3f; /*373d3f*/
+        border-top: 75px solid #8c8c8c; /*373d3f*/
     }
 
     main {
@@ -254,7 +254,7 @@ footer {
                 }
 
                 main #content #side a {
-                    color: #efd469; /*efd469*/
+                    color: #ffffff; /*efd469*/
                 }
 
                 main #content #side #jsportfolio {
@@ -266,8 +266,8 @@ footer {
                     main #content #side #jsportfolio #portfolio {
                         position: relative;
                         padding: 10px;
-                        background-color: #efd469; /*efd469*/
-                        color: #093145; /*373d3f*/
+                        background-color: #ffffff; /*efd469*/
+                        color: #000000; /*373d3f*/
                         margin: 30px;
                         width: 50%;
                     }
@@ -282,7 +282,7 @@ footer {
                         }
 
                         main #content #side #jsportfolio #portfolio a {
-                            color: #3c6478; /*3c6478*/
+                            color: #333333; /*3c6478*/
                         }
 
                     main #content #side #jsportfolio .portfolio_image {
@@ -325,13 +325,13 @@ footer {
             main #contact #aboutsection #about {
                 padding: 50px;
                 line-height: 30px;
-                color: #f2f3f4; /*f2f3f4*/
+                color: #f2f2f2; /*f2f3f4*/
             }
 
             main #contact #aboutsection #email {
                 text-align: center;
                 line-height: 30px;
-                color: #f2f3f4; /*f2f3f4*/
+                color: #f2f2f2; /*f2f3f4*/
             }
 
 
@@ -340,7 +340,7 @@ footer {
             }
 
         main .dropshadow {
-            text-shadow: 5px 5px #efd469; /*efd469*/
+            text-shadow: 5px 5px #ffffff; /*efd469*/
         }
 
 
@@ -349,13 +349,13 @@ footer {
         flex-direction: column;
         justify-content: space-between;
         line-height: 50px;
-        color: #f2f3f4; /*f2f3f4*/
+        color: #f2f2f2; /*f2f3f4*/
         padding-left: 220px;
         padding-bottom: 20px;
     }
 
         footer a {
-            color: #efd469; /*f2f3f4*/
+            color: #ffffff; /*f2f3f4*/
         }
 }
 
@@ -378,8 +378,8 @@ footer {
         font-family: "Roboto", sans-serif;
         padding: 0;
         margin: 0;
-        background-color: #093145; /*093145*/
-        color: #f2f3f4; /*f2f3f4*/
+        background-color: #000000; /*093145*/
+        color: #f2f2f2; /*f2f3f4*/
     }
 
     #header {
@@ -390,8 +390,8 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-content: center;
-        background: #efd469; /*efd469*/
-        color: #093145; /*373d3f*/
+        background: #ffffff; /*efd469*/
+        color: #000000; /*373d3f*/
         height: 100%;
         width: 150px;
     }
@@ -424,7 +424,7 @@ footer {
     .headerbreak {
         border-left: 25px solid transparent;
         border-right: 90vw solid transparent;
-        border-top: 75px solid #373d3f; /*373d3f*/
+        border-top: 75px solid #8c8c8c; /*373d3f*/
     }
 
     main {
@@ -458,7 +458,7 @@ footer {
                 }
 
                 main #content #side a {
-                    color: #efd469; /*efd469*/
+                    color: #ffffff; /*efd469*/
                 }
 
                 main #content #side #jsportfolio {
@@ -470,8 +470,8 @@ footer {
                     main #content #side #jsportfolio #portfolio {
                         position: relative;
                         padding: 10px;
-                        background-color: #efd469; /*efd469*/
-                        color: #093145; /*373d3f*/
+                        background-color: #ffffff; /*efd469*/
+                        color: #000000; /*373d3f*/
                         margin: 30px;
                         width: 50%;
                     }
@@ -486,7 +486,7 @@ footer {
                         }
 
                         main #content #side #jsportfolio #portfolio a {
-                            color: #3c6478; /*3c6478*/
+                            color: #333333; /*3c6478*/
                         }
 
                     main #content #side #jsportfolio .portfolio_image {
@@ -529,13 +529,13 @@ footer {
             main #contact #aboutsection #about {
                 padding: 50px;
                 line-height: 30px;
-                color: #f2f3f4; /*f2f3f4*/
+                color: #f2f2f2; /*f2f3f4*/
             }
 
             main #contact #aboutsection #email {
                 text-align: center;
                 line-height: 30px;
-                color: #f2f3f4; /*f2f3f4*/
+                color: #f2f2f2; /*f2f3f4*/
             }
 
 
@@ -558,12 +558,12 @@ footer {
                 main #contact #formsection .button {
                     padding: 10px;
                     width: 100%;
-                    background-color: #efd469; /*efd469*/
-                    color: #373d3f; /*373d3f*/
+                    background-color: #ffffff; /*efd469*/
+                    color: #8c8c8c; /*373d3f*/
                 }
 
         main .dropshadow {
-            text-shadow: 5px 5px #efd469; /*efd469*/
+            text-shadow: 5px 5px #ffffff; /*efd469*/
         }
 
 
@@ -572,12 +572,12 @@ footer {
         flex-direction: row;
         justify-content: space-between;
         line-height: 50px;
-        color: #f2f3f4; /*f2f3f4*/
+        color: #f2f2f2; /*f2f3f4*/
         padding-left: 220px;
         padding-bottom: 20px;
     }
 
         footer a {
-            color: #efd469; /*f2f3f4*/
+            color: #ffffff; /*f2f3f4*/
         }
 }
