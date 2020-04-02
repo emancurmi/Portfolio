@@ -18,29 +18,24 @@ body {
     padding: 10px;
     background: #efd469;
     min-height: 150px;
+    color: #373d3f;
 }
 
     #header logo {
         font-size: 40px;
-        color: #373d3f;
     }
 
     #header social {
         font-size: 20px;
-        color: #373d3f;
     }
 
         #header social .fab {
             padding: 20px;
-            color: #373d3f;
         }
-
-
 
     #header name {
         font-size: 15px;
         letter-spacing: 0.4em;
-        color: #373d3f;
     }
 
 .headerbreak {
@@ -96,24 +91,6 @@ main {
         min-height: 250px;
         height: auto;
     }
-
-    /*main .portfolio_overlay {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        padding: 20px;
-        height: 100%;
-        width: 100%;
-        opacity: 0;
-        transition: .5s ease;
-        background-color: #efd469;
-    }
-
-    main .portfolio:hover .portfolio_overlay {
-        opacity: 1;
-    }*/
 
     main .portfoliotop {
         margin: 30px 30px -30px 30px;
@@ -211,17 +188,16 @@ footer {
         background: #efd469;
         height: 100%;
         width: 150px;
+        color: #373d3f;
     }
 
         #header logo {
             font-size: 40px;
-            color: #373d3f;
             order: 2;
         }
 
         #header social {
             font-size: 20px;
-            color: #373d3f;
             padding: 50px;
             order: 3;
         }
@@ -237,7 +213,6 @@ footer {
             padding-top: 50%;
             width: 150px;
             font-size: 15px;
-            color: #373d3f;
             order: 1;
         }
 
@@ -415,19 +390,18 @@ footer {
         justify-content: center;
         align-content: center;
         background: #efd469;
+        color: #373d3f;
         height: 100%;
         width: 150px;
     }
 
         #header logo {
             font-size: 40px;
-            color: #373d3f;
             order: 2;
         }
 
         #header social {
             font-size: 20px;
-            color: #373d3f;
             padding: 50px;
             order: 3;
         }
@@ -443,7 +417,6 @@ footer {
             padding-top: 50%;
             width: 150px;
             font-size: 15px;
-            color: #373d3f;
             order: 1;
         }
 
