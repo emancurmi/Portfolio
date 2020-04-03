@@ -31,6 +31,7 @@ body {
 
         #header social .fab {
             padding: 20px;
+            color: #373d3f;
         }
 
     #header name {
@@ -202,8 +203,9 @@ footer {
             order: 3;
         }
 
-        #header #top social .fab {
-        }
+            #header social .fab {
+                color: #373d3f;
+            }
 
 
         #header name {
@@ -406,8 +408,9 @@ footer {
             order: 3;
         }
 
-        #header #top social .fab {
-        }
+            #header social .fab {
+                color: #373d3f;
+            }
 
 
         #header name {
